@@ -1,4 +1,4 @@
-# JHUCollectandCleanData
+# README FILE 
 
 This is the read me file to describe how the code run_analysis.R works and what are the data contained in file analysis_results.
 
