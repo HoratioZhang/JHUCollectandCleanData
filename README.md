@@ -6,7 +6,7 @@ This is the read me file to describe how the code run_analysis.R works and what 
 
 Firstly, please change the route in line 2
 ```
-setwd('.../GCDJHU/UCIHARDataset')
+setwd('.../UCIHARDataset')
 ```
 to the route on your computer to run the code successfully.
 
