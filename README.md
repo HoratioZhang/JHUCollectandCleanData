@@ -27,9 +27,13 @@ Same to the subjects. I calculated the means in each of the subject groups.
 
 <h1>Codebook</h1>
 
-In file analysis_results.txt, there is a dataframe of 561 columns and 36 rows.
+In file analysis_results.txt, there is a dataframe of 561 columns and 36 rows. Each line stands for a type of activity or subject. 
+
 The 561 columns are the 561 elements of the data vectors.
+
 First 6 rows refers the means in 6 activity types. 1 to 6 are WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
+
 The 7th to 28th rows refers to the subjects of training. 2, 4,...42.
+
 The 29th to 36th rows refers to the sujbects of testing. 1,3...17.
 
